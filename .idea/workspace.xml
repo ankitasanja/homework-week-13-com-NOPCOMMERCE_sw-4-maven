@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="131a142c-6cea-43cc-b556-ec928ca873b5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PCx7n8MqKkr3XSIoPtjtzgEvv2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shard/IdeaProjects/com-nopcommerce-sw-4-maven/src/test/java/resources/propertiesfile&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shard\IdeaProjects\com-nopcommerce-sw-4-maven\src\test\java\resources\propertiesfile" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce.demo.testsuite" />
+      <recent name="com.nopcommerce.demo.pages" />
+      <recent name="com.nopcommerce.demo.testbase" />
+      <recent name="com.nopcommerce.demo.utilities" />
+      <recent name="com.nopcommerce.demo.propertyreader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ElectronicsTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully">
+    <configuration name="ComputersTest.verifyProductArrangeInAlphabeticalOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-nopcommerce-sw-4-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ComputersTest" />
+      <option name="METHOD_NAME" value="verifyProductArrangeInAlphabeticalOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-nopcommerce-sw-4-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ElectronicsTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest.verifyPageNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-nopcommerce-sw-4-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.TopMenuTest" />
+      <option name="METHOD_NAME" value="verifyPageNavigation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ElectronicsTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+        <item itemvalue="TestNG.TopMenuTest.verifyPageNavigation" />
+        <item itemvalue="TestNG.ComputersTest.verifyProductArrangeInAlphabeticalOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131a142c-6cea-43cc-b556-ec928ca873b5" name="Changes" comment="" />
+      <created>1682974701893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682974701893</updated>
+    </task>
+    <servers />
+  </component>
+</project>
